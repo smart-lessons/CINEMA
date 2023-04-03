@@ -22,7 +22,7 @@ h1 {
     position: relative;
 }
 
-video {
+.video {
     width: 100%;
     aspect-ratio: 16/9;
     position: absolute;
