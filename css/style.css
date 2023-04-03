@@ -1,5 +1,6 @@
 body{
-    background-color: #303030;
+    /* background-color: #303030; */
+    background-color: #0a091f;
 }
 
 h1 {
@@ -35,6 +36,7 @@ video {
     top: 0;
     z-index: 1;
 
-    background-color: #141414;
+    /* background-color: #141414; */
+    background-color: #020115;
     filter: blur(25px);
 }
